@@ -7,4 +7,4 @@ Tolgay Atınç Uzun
 Gökmen Çağlar
 ```
 
-![pdf](./HeartDiseasePrediciton.pdf)
+![Report](./HeartDiseasePrediciton.pdf)
