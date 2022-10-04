@@ -6,4 +6,3 @@ Ufuk Özkul
 Tolgay Atınç Uzun
 Gökmen Çağlar
 ```
-[HeartDiseasePrediciton.pdf](https://github.com/ufukozkul/Heart-Disease-Prediction/files/9703139/HeartDiseasePrediciton.pdf)
