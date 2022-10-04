@@ -6,3 +6,5 @@ Ufuk Özkul
 Tolgay Atınç Uzun
 Gökmen Çağlar
 ```
+
+![pdf](./HeartDiseasePrediction)
